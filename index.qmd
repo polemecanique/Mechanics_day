@@ -27,12 +27,12 @@ The **MechDay** is a joint annual event bringing together faculty, postdocs, and
 |:-----|:----------------|:---------------|
 | **09:00 – 09:30** | {{< iconify fa6-solid:mug-hot >}} &nbsp; **Welcome Coffee** | *Reception & Badge Pickup* |
 | **09:30 – 10:15** | {{< iconify fa6-solid:person-chalkboard >}} &nbsp; **Cécile Sykes** | *Keynote Presentation* |
-| **10:15 – 10:30** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Contributed Talk* |
-| **10:30 – 10:45** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Contributed Talk* |
+| **10:15 – 10:30** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Talk* |
+| **10:30 – 10:45** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Talk* |
 | **10:45 – 11:15** | {{< iconify fa6-solid:mug-hot >}} &nbsp; **Coffee Break** | |
 | **11:15 – 12:00** | {{< iconify fa6-solid:person-chalkboard >}} &nbsp; **Marios Kotsonis** | *Keynote Presentation* |
-| **12:00 – 12:15** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Contributed Talk* |
-| **12:15 – 12:30** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Contributed Talk* |
+| **12:00 – 12:15** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Talk* |
+| **12:15 – 12:30** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Talk* |
 
 ::: {.callout-tip appearance="minimal"}
 {{< iconify fa6-solid:utensils >}} &nbsp; **12:30 – 14:00 · Lunch Buffet**  
@@ -44,12 +44,12 @@ The **MechDay** is a joint annual event bringing together faculty, postdocs, and
 | Time | Event / Speaker | Topic / Format |
 |:-----|:----------------|:---------------|
 | **14:00 – 14:45** | {{< iconify fa6-solid:person-chalkboard >}} &nbsp; **Florence Bertails-Descoubes** | *Keynote Presentation* |
-| **14:45 – 15:00** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Contributed Talk* |
-| **15:00 – 15:15** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Contributed Talk* |
+| **14:45 – 15:00** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Talk* |
+| **15:00 – 15:15** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Talk* |
 | **15:15 – 15:30** | {{< iconify fa6-solid:mug-hot >}} &nbsp; **Short Break** | |
 | **15:30 – 16:15** | {{< iconify fa6-solid:person-chalkboard >}} &nbsp; **TBC** *(Geophysics)* | *Keynote Presentation* |
-| **16:15 – 16:30** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Contributed Talk* |
-| **16:30 – 16:45** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Contributed Talk* |
+| **16:15 – 16:30** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Talk* |
+| **16:30 – 16:45** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Talk* |
 | **16:45 – 17:00** | {{< iconify fa6-solid:flag-checkered >}} &nbsp; **Concluding Remarks** | *Wrap-up* |
 
 
