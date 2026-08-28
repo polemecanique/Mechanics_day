@@ -50,7 +50,7 @@ The **MechDay** is a joint annual event bringing together faculty, postdocs, and
 | **15:30 – 16:15** | {{< iconify fa6-solid:person-chalkboard >}} &nbsp; **TBC** *(Geophysics)* | *Keynote Presentation* |
 | **16:15 – 16:30** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Contributed Talk* |
 | **16:30 – 16:45** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Contributed Talk* |
-| **16:45 – 17:00** | {{< iconify fa6-solid:flag-checkered >}} &nbsp; **Concluding Remarks** | *Wrap-up |
+| **16:45 – 17:00** | {{< iconify fa6-solid:flag-checkered >}} &nbsp; **Concluding Remarks** | *Wrap-up* |
 
 
 
