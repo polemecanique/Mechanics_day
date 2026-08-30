@@ -42,7 +42,7 @@ The **MechDay** is a joint annual event bringing together faculty, postdocs, and
 
 ### Afternoon Session
 
-| Time | Event / Speaker | Topic / Format |
+| Time | Event / Speaker | Title |
 |:-----|:----------------|:---------------|
 | **14:00 – 14:45** | {{< iconify fa6-solid:person-chalkboard >}} &nbsp; **Florence Bertails-Descoubes** (INRIA Grenoble) | *Numerical modelling of contacting fibres for movies, inverse design, and physical exploration* |
 | **14:45 – 15:00** | {{< iconify fa6-solid:microphone >}} &nbsp; *Short Talk* | *Lab Talk* |
