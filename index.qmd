@@ -18,7 +18,7 @@ The **MechDay** is a joint annual event bringing together faculty, postdocs, and
 
 {{< iconify fa6-solid:calendar-days >}} &nbsp; 10th of September (9 a.m - 5 p.m.)
 
-{{< iconify fa6-solid:clipboard >}} &nbsp; [registration link to come](todo)
+{{< iconify fa6-solid:clipboard >}} &nbsp; [Registration link](https://evento.renater.fr/survey/m-day-ip-paris-l3ulghiu)
 
 ## {{< iconify fa6-solid:clock >}} &nbsp; Schedule
 
