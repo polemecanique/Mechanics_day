@@ -29,7 +29,7 @@ The **MechDay** is a joint annual event bringing together faculty, postdocs, and
 | **09:00 – 09:30** | {{< iconify fa6-solid:mug-hot >}} &nbsp; **Welcome Coffee** |  |
 | **09:30 – 10:15** | {{< iconify fa6-solid:person-chalkboard >}} &nbsp; **Cécile Sykes** (CNRS and laboratoire de physique de l'ENS Paris) | *Biophysics and biomechanics of cell motility* |
 | **10:15 – 10:30** | {{< iconify fa6-solid:microphone >}} &nbsp; *Arianna Giannetti (LadHyX)* | *Tomographic shearmetry of dynamic flows at cell surfaces using nanoprobes* |
-| **10:30 – 10:45** | {{< iconify fa6-solid:microphone >}} &nbsp; *Louis Lesueur (LMS)* | *PlastiNN: A neural network-based framework for real-time finite-strain plasticity simulations.* |
+| **10:30 – 10:45** | {{< iconify fa6-solid:microphone >}} &nbsp; *Louis Lesueur (LMS)* | *PlastiNN: A neural network-based framework for real-time finite-strain plasticity simulations* |
 | **10:45 – 11:15** | {{< iconify fa6-solid:mug-hot >}} &nbsp; **Coffee Break** | |
 | **11:15 – 12:00** | {{< iconify fa6-solid:person-chalkboard >}} &nbsp; **Anne-Laure Dalibard** (LJLL, Sorbonne Université) | *Theoretical challenges for  oceanic  western boundary currents* |
 | **12:00 – 12:15** | {{< iconify fa6-solid:microphone >}} &nbsp; *Alexis AUBEL (LMD)* | *Observed large-scale trapping of gravity waves within the free troposphere* |
@@ -45,8 +45,8 @@ The **MechDay** is a joint annual event bringing together faculty, postdocs, and
 | Time | Event / Speaker | Title |
 |:-----|:----------------|:---------------|
 | **14:00 – 14:45** | {{< iconify fa6-solid:person-chalkboard >}} &nbsp; **Florence Bertails-Descoubes** (INRIA Grenoble) | *Numerical modelling of contacting fibres for movies, inverse design, and physical exploration* |
-| **14:45 – 15:00** | {{< iconify fa6-solid:microphone >}} &nbsp; *Thomas Lavigne (LMS)* | *Integrating Cellular Contractility into Poroelastic Models of Collagen Hydrogels.* |
-| **15:00 – 15:15** | {{< iconify fa6-solid:microphone >}} &nbsp; *André de Figueiredo Stabile (IMSIA)* | *Invariant manifolds for model-order reduction of fluids and structures: application to systems experiencing Hopf bifurcations.* |
+| **14:45 – 15:00** | {{< iconify fa6-solid:microphone >}} &nbsp; *Thomas Lavigne (LMS)* | *Integrating Cellular Contractility into Poroelastic Models of Collagen Hydrogels* |
+| **15:00 – 15:15** | {{< iconify fa6-solid:microphone >}} &nbsp; *André de Figueiredo Stabile (IMSIA)* | *Invariant manifolds for model-order reduction of fluids and structures: application to systems experiencing Hopf bifurcations* |
 | **15:15 – 15:30** | {{< iconify fa6-solid:mug-hot >}} &nbsp; **Short Break** | |
 | **15:30 – 16:15** | {{< iconify fa6-solid:person-chalkboard >}} &nbsp; **Marios Kotsonis** *(TU Delft)* | *On the quest for passive laminar flow: from metamaterials to surface humps* |
 | **16:15 – 16:30** | {{< iconify fa6-solid:microphone >}} &nbsp; *Marc Vacher (LadHyX/PMMH/Saint-Gobain)* | *Sloshing instabilities induced by upward flows* |
